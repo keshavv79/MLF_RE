@@ -1,0 +1,7 @@
+scheme,R_n,R_f,R_s,R_DL_sum,qos_viol_any
+Proposed (RIS+ML optimization),12.8207445,0.936175,4.649521,11.0247,0.0134
+Equal power + random RIS phases,12.63174,0.6301462,5.0197077,10.789233,0.0736
+Random power + random RIS phases,12.261626,0.735288,4.6396174,10.489725,0.1838
+Equal power + fixed RIS phases,12.638326,0.63484675,4.9981117,10.790655,0.0726
+Random power + fixed RIS phases,12.25343,0.73645633,4.642944,10.485804,0.184
+NOMA + No-RIS,6.764008,1.3413547,3.3794312,6.6875844,0.0532
